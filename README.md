@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - UNIX and Unix-like systems
 - Hardware
 - Performance optimization
+- Free and Open Source Software
 
 ## Skills
 
