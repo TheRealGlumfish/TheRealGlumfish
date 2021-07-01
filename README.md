@@ -15,4 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: I'm Greek
 -->
+
+## Interests
+
+- Systems Programming
+- Operating Systems and Kernels
+- Low-level and embedded systems programming
+- UNIX and Unix-like systems
+- Hardware
+- Performance optimization
+
+## Skills
+
+- Beginner in C
+- Beginner in Make
+- UNIX Utilities and operation
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealglumfish)](https://github.com/TheRealGlumfish/github-readme-stats)
