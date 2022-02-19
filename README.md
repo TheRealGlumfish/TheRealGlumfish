@@ -1,5 +1,5 @@
 <!--
-Copyright 2021 (c) Dimitris Alexopoulos - All rights reserved
+Copyright 2022 (c) Dimitris Alexopoulos - All rights reserved
 -->
 
 ### Hi there 👋, Glumfish here!
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Low-level and embedded systems programming
 - UNIX and Unix-like systems
 - Hardware
-- Performance optimization
+- Graphics and game programming
 - Free and Open Source Software
 
 ## Skills
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 - [x] Learn C
 - [ ] Learn C++
-- [ ] Learn Rust
-- [ ] Learn Make
+- [ ] Learn Rust (WIP)
+- [x] Learn Make
 - [ ] Learn GNU Autotools
 - [ ] Learn Win32API
 - [ ] Learn GTK
