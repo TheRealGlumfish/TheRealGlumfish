@@ -38,13 +38,14 @@ Here are some ideas to get you started:
 ## Skills
 
 - Beginner in C
+- Beginner in C++
 - Beginner in Make
 - UNIX Utilities and operation
 
 ## TODO
 
 - [x] Learn C
-- [ ] Learn C++
+- [x] Learn C++
 - [ ] Learn Rust (WIP)
 - [x] Learn Make
 - [ ] Learn GNU Autotools
