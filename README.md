@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 - Intermediate in C
 - Beginner in C++
 - Beginner in Rust
+- Beginner in SystemVerilog
+- Beginner in Python
 - Beginner in Make and Meson
 - UNIX Utilities and operation
 
