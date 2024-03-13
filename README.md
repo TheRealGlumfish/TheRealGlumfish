@@ -46,11 +46,3 @@ Here are some ideas to get you started:
 - Beginner in Make and Meson
 - UNIX Utilities and operation
 
-## TODO
-
-- [x] Learn C
-- [x] Learn C++
-- [x] Learn Rust
-- [x] Learn Make
-- [x] Learn Meson
-- [ ] Learn GTK
