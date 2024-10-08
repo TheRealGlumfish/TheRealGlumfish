@@ -38,11 +38,12 @@ Here are some ideas to get you started:
 
 ## Skills
 
-- Intermediate in C
-- Beginner in C++
-- Beginner in Rust
-- Beginner in SystemVerilog
-- Beginner in Python
-- Beginner in Make and Meson
+- C
+- C++
+- CUDA
+- Rust
+- SystemVerilog
+- Python
+- Make and Meson
 - UNIX Utilities and operation
 
