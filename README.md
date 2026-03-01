@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 - CUDA
 - Rust
 - SystemVerilog
+- VHDL
 - Python
 - Make and Meson
 - UNIX Utilities and operation
